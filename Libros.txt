@@ -1,0 +1,130 @@
+1
+9876654321
+Pedro Paramo
+Juan Rulfo
+Alejandro Santillana
+-
+1966
+Rm Edtorial
+Edicion de Aniversario
+1
+2
+234567
+Persona Normal
+Benito Taibo
+yo
+-
+2012
+Gandhi
+1
+3
+11
+98564728190
+Persona Comun
+Benito Taibo
+Sergio Flores
+Monica
+2012
+Satillana
+Buen estado
+1
+4
+123455523
+Pedro Paramon
+Juan Cruz
+-
+-
+1955
+Rm Edtorial
+portada rota
+2
+5
+12121212121
+Pedro Paramo
+Juan Rulfoa
+Alejandro Santos
+Jorge
+19551
+Rm Edtorial
+Portada Descolorida
+0
+6
+132313123
+Pedro Paramoqw
+Juanito
+Alejandro
+Jorge
+2000
+Ibero
+portada rota
+0
+7
+0192837465
+Carlos Ibarra
+Sergio
+-
+-
+2020
+Alfaguara
+Esta bueno
+1
+8
+1298765940293
+Persona Normal
+Benito Taibo
+-
+Carlos Medina
+2012
+DeBolsillo
+Portada Rota
+1
+9
+9786073184519
+El manto
+Marcela Serrano
+-
+-
+2019
+Alfaguara
+Encuadernado rustico
+1
+10
+9786073111607
+El nombre del viento
+Patrick Rothfuss
+-
+-
+2012
+Debolsillo
+Buen estado
+1
+11
+9786079735098
+El principito
+Antoine de Saint Exupery
+-
+-
+1943
+Didalibros
+Pasta dura
+1
+12
+9786073179416
+Largo petalo del mar
+Isabel Allende
+-
+-
+2019
+Plaza & Janes
+Encuadernacion rustica
+1
+13
+9788416224999
+Herido
+Tabitha Suzuma
+-
+-
+2018
+Oz Editorial
+Encuadernacion rustica
+1
